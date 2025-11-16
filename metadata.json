@@ -1,0 +1,5 @@
+
+{
+  "name": "Retro Restore AI",
+  "description": "An application to colorize, repair, and upscale old black and white photos to high definition using Gemini 2.5 Flash Image. Users can upload a photo and use a text prompt to guide the restoration process, preserving the original facial features."
+}
